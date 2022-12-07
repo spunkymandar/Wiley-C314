@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-4.0.xsd">
+
+	<!--  setter injection -->
+	<!--  
+	<bean id="emp1" class="com.beans.Employee">
+		<property name="empId" value="101"/> 
+		<property name="empName" value="Rakesh"/> 
+	</bean>
+	
+	
+	
+	<bean id="empconst" class="com.beans.Employee">
+		<constructor-arg value="105"/>
+		<constructor-arg value="Derek"/>
+	</bean>
+	-->
+	
+	<bean id="cust1" class="com.beans.Customer">
+		<constructor-arg value="563"/>
+		<constructor-arg value="Amit"/>
+		
+	</bean>
+	
+	
+	
+	
+	
+</beans> 

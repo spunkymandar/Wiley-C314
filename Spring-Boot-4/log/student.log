@@ -1,0 +1,136 @@
+2022-12-05 12:37:02.539  INFO 3092 --- [restartedMain] com.example.demo.SpringBoot4Application  : Starting SpringBoot4Application using Java 1.8.0_291 on DESKTOP-EKH3BUP with PID 3092 (D:\wiley_training\C_314\Java_training\Spring-Boot-4\target\classes started by mandy in D:\wiley_training\C_314\Java_training\Spring-Boot-4)
+2022-12-05 12:37:02.541  INFO 3092 --- [restartedMain] com.example.demo.SpringBoot4Application  : No active profile set, falling back to 1 default profile: "default"
+2022-12-05 12:37:02.721  INFO 3092 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-12-05 12:37:02.722  INFO 3092 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-12-05 12:37:02.734  INFO 3092 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.69]
+2022-12-05 12:37:02.745  INFO 3092 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2022-12-05 12:37:02.746  INFO 3092 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 201 ms
+2022-12-05 12:37:02.801  INFO 3092 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-12-05 12:37:02.811  INFO 3092 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-05 12:37:02.815  INFO 3092 --- [restartedMain] com.example.demo.SpringBoot4Application  : Started SpringBoot4Application in 0.327 seconds (JVM running for 568.613)
+2022-12-05 12:37:02.816  INFO 3092 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-12-05 12:38:03.015  INFO 3092 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2022-12-05 12:38:03.400  INFO 3092 --- [Thread-56] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-12-05 12:38:03.542  INFO 3092 --- [restartedMain] com.example.demo.SpringBoot4Application  : Starting SpringBoot4Application using Java 1.8.0_291 on DESKTOP-EKH3BUP with PID 3092 (D:\wiley_training\C_314\Java_training\Spring-Boot-4\target\classes started by mandy in D:\wiley_training\C_314\Java_training\Spring-Boot-4)
+2022-12-05 12:38:03.542  INFO 3092 --- [restartedMain] com.example.demo.SpringBoot4Application  : No active profile set, falling back to 1 default profile: "default"
+2022-12-05 12:38:03.800  INFO 3092 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-12-05 12:38:03.801  INFO 3092 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-12-05 12:38:03.801  INFO 3092 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.69]
+2022-12-05 12:38:03.817  INFO 3092 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2022-12-05 12:38:03.817  INFO 3092 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 272 ms
+2022-12-05 12:38:03.934  INFO 3092 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-12-05 12:38:03.943  INFO 3092 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-05 12:38:03.947  INFO 3092 --- [restartedMain] com.example.demo.SpringBoot4Application  : Started SpringBoot4Application in 0.431 seconds (JVM running for 629.746)
+2022-12-05 12:38:03.948  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:03.949  INFO 3092 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-12-05 12:38:04.947  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:05.955  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:06.948  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:07.955  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:08.949  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:09.955  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:10.950  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:11.956  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:12.952  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:13.959  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:14.952  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:15.949  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:16.958  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:17.948  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:18.956  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:19.948  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:20.965  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:21.956  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:22.949  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:23.948  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:24.949  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:25.957  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:26.950  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:27.957  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:28.951  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:29.956  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:30.951  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:31.957  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:32.951  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:33.960  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:34.954  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:35.947  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:36.952  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:37.958  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:38.947  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:39.955  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:40.962  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:41.957  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:42.961  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:43.953  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:44.953  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:45.955  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:46.960  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:47.949  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:48.952  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:49.948  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:50.957  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:51.960  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:52.953  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:53.948  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:54.954  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:55.952  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:56.956  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:57.957  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:58.952  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:38:59.961  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:00.950  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:01.950  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:02.959  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:03.952  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:04.959  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:05.948  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:06.958  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:07.951  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:08.961  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:09.951  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:10.960  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:11.961  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:12.948  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:13.949  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:14.960  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:15.954  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:16.947  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:17.949  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:18.953  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:19.956  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:20.962  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:21.951  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:22.961  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:23.952  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:24.956  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:25.947  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:26.954  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:27.956  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:28.960  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:29.951  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:30.959  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:31.954  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:32.959  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:33.948  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:34.955  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:35.959  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:36.948  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:37.960  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:38.952  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:39.962  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:40.959  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:41.960  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:42.948  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:43.956  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:44.962  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:45.953  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:46.957  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:47.947  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:48.954  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:49.961  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:50.949  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:51.958  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:52.947  INFO 3092 --- [scheduling-1] com.example.demo.SpringBoot4Application  : Repeted task is getting executed!!
+2022-12-05 12:39:53.297  INFO 3092 --- [RMI TCP Connection(17)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-12-05 12:39:53.598  INFO 3092 --- [RMI TCP Connection(17)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
