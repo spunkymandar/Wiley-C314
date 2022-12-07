@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-4.0.xsd">
+
+	<bean id="departmentBean2" class="com.autowiring.beans.DepartmentBean">
+		<property name="name" value="technology"/>
+	</bean>
+	
+	<bean id="departmentBean1" class="com.autowiring.beans.DepartmentBean">
+		<property name="name" value="sales"/>
+	</bean>
+	
+
+	<bean id="emp1" class="com.autowiring.beans.EmployeeBean" autowire="byName">
+		<property name="fullName" value="John Doe"/>
+		<!-- <property name="departmentBean" ref="departmentBean"/> -->
+	</bean>
+
+</beans>

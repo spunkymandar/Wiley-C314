@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-4.0.xsd" default-destroy-method="mydestroy" default-init-method="myinit">
+	<!-- 
+	<bean id="carfactory" class="com.factory.CarFactory"/>
+	<bean id="carobj" factory-bean="carfactory" factory-method="buildCar"/>
+	   
+	-->
+    
+    <!-- 
+    <bean id="book1" class="com.beans.Book">
+    	<constructor-arg value="Java456" />
+    	<constructor-arg value="Java9" />
+    	<constructor-arg value="890" />
+    </bean>
+    <bean id="book2" class="com.beans.Book">
+    	<constructor-arg value="Java456" />
+    	<constructor-arg value="Java9" />
+    	<constructor-arg value="890" />
+    </bean>
+    <bean id="book3" class="com.beans.Book">
+    	<constructor-arg value="Spring676" />
+    	<constructor-arg value="Learn spring" />
+    	<constructor-arg value="980" />
+    </bean>
+    
+    
+    <bean id="booklibrary" class="com.beans.LibraryList">
+    	<property name="books">
+    		<list>
+    			<ref bean="book1"/>
+    			<ref bean="book2"/>
+    			<ref bean="book3"/>
+    		</list>
+    	</property> 
+    </bean>
+    
+    <bean id="booklibrary" class="com.beans.LibrarySet">
+    	<property name="books">
+    		<set>
+    			<ref bean="book1"/>
+    			<ref bean="book2"/>
+    			<ref bean="book3"/>
+    		</set>
+    	</property> 
+    </bean>
+    
+    <bean id="booklibrary" class="com.beans.LibraryMap">
+    	<property name="books">
+    		<map>
+    			<entry key="Java" value-ref="book1"/>
+    			<entry key="Java9" value-ref="book2"/>
+    			<entry key="Spring" key-ref="book3" />
+    		</map>
+    	</property> 
+    </bean>
+     -->
+    
+    <bean id="life" class="com.beans.LifeCycleBean" init-method=" " destroy-method=""/>
+    <bean id="utility" class="com.beans.UtilityBean"/>
+    
+</beans> 

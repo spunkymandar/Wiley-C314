@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-4.0.xsd">
+
+    <!-- 
+    <bean id="cust" class="com.beans.Customer">
+    	<property name="custId" value="101"/>
+    	<property name="custName" value="John"/>
+    	<property name="custAddress" ref="address2"/>
+    </bean>
+    
+    <bean id="address1" class="com.beans.Address">
+    	<property name="buildingName" value="Vishesh Heights"/>
+    	<property name="areaName" value="MK Nagar"/>
+    	<property name="cityName" value="Bangalore"/>
+    </bean>
+    
+    <bean id="address2" class="com.beans.Address">
+    	<property name="buildingName" value="Elite Residency"/>
+    	<property name="areaName" value="MG Road"/>
+    	<property name="cityName" value="Mumbai"/>
+    </bean>
+     -->
+     <!--  default scope is singleton: 
+     		singleton:Single object is generated irrespective of how many references are created 
+      		prototype:multiple beans are created based on the refrences 
+      		request:objects are created per request
+      		session:objects are created per session
+      -->
+     <bean id="car" class="com.beans.Car" scope="prototype">
+     	<constructor-arg value="674"/>
+     	<constructor-arg value="Tata"/>
+     	<constructor-arg value="White"/>
+     
+     </bean>
+     
+     
+     
+     
+     
+     
+     
+     
+    
+    
+    
+    
+</beans> 
