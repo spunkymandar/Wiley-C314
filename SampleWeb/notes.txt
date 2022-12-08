@@ -1,0 +1,12 @@
+M: Model
+V: View
+C: Controller
+
+Web Architectures:
+MVC1 : Single type of file, takes care of everything 
+	   html: servlet
+
+MVC2:
+	M: Java
+	V: html/jsp
+	C: Servlet
