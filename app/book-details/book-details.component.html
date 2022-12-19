@@ -1,0 +1,31 @@
+<p>List of Books:</p>
+<div *ngFor="let book of Books">
+    {{book.BookName}} - {{book.BookAuthor}}
+</div>
+
+<div *ngFor="let book of Books;let i=index">
+   {{i+1}}. {{book.BookName}} - {{book.BookAuthor}}
+</div>
+
+<div>
+Select Book:
+    <select>
+        <option *ngFor="let book of Books">{{book.BookName}}</option>
+    </select>
+</div>
+
+<br><br>
+<div>Using ngIF </div>
+<div *ngIf="checkBookStatus();else elseBlock">
+    <div>
+        Select Book:
+            <select>
+                <option *ngFor="let book of Books">{{book.BookName}}</option>
+            </select>
+    </div>
+</div>
+
+<ng-template #elseBlock>
+    There are no books available
+</ng-template>
+
